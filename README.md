@@ -2,6 +2,19 @@
 
 My curated list of tech and AI resources
 
+``` bash
+awesome-ai-tech/
+├── README.md
+├── Resources.md
+├── CONTRIBUTING.md
+├── machine_learning/
+│   ├── libraries.md
+│   ├── tutorials.md
+├── ai/
+│   ├── papers.md
+│   ├── research_tools.md
+```
+
 # Awesome AI and Tech Resources
 
 ## Artificial Intelligence
